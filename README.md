@@ -36,6 +36,6 @@
 ## contributions
 <div>
   
-![snake gif](https://github.com/Gpontes143/Gpontes143/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Guilherme-Pontes-Campos/Guilherme-Pontes-Campos/blob/output/github-contribution-grid-snake.svg)
 
 </div>
