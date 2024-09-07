@@ -12,16 +12,16 @@
   ## Status
 <div>
 <a href="https://github.com/Guilherme-Pontes-Campos/github-readme-stats">
-  <img height=150em src="https://github-readme-stats.vercel.app/api?username=Gpontes143&show_icons=true&theme=midnight-purple" />
+  <img height=110em length= 230em src="https://github-readme-stats.vercel.app/api?username=Gpontes143&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/Guilherme-Pontes-Campos/convoychat">
-  <img height=150em length= 280em src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme-Pontes-Campos&layout=compact&langs_count=8&theme=midnight-purple" />
+  <img height=110em length= 230em src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme-Pontes-Campos&layout=compact&langs_count=8&theme=dracula" />
 </a>
 </div>
 
 ## Linguagens e ferramentas
 <div style="display: inline_block"><br>
-<img alt="Icons" align="center" height="40" width="290" src="https://skillicons.dev/icons?i=js,html,css,vscode,py,java,git" />  <img align="center"src=https://github.com/Gpontes143/Gpontes143/blob/main/Imagem/gamemaker.png? alt="Icons" height="37" width="37" raw=true"> 
+<img alt="Icons" align="center" height="40" width="290" src="https://skillicons.dev/icons?i=vscode,py,java,git,mysql" /> 
   
   
 </div>
